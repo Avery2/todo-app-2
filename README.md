@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Deployed with netlify to https://main--avery2-todo-app-2.netlify.app/
+- Netlify deploy management https://app.netlify.com/sites/avery2-todo-app-2/deploys/668b7a56524ab775584c2ef8
 
 ## Available Scripts
 
